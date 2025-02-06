@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1383anushk/Country-City-State-Management-system/static/css/main.e3db3132.css",
+    "main.js": "/1383anushk/Country-City-State-Management-system/static/js/main.03549b81.js",
+    "index.html": "/1383anushk/Country-City-State-Management-system/index.html",
+    "main.e3db3132.css.map": "/1383anushk/Country-City-State-Management-system/static/css/main.e3db3132.css.map",
+    "main.03549b81.js.map": "/1383anushk/Country-City-State-Management-system/static/js/main.03549b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3db3132.css",
+    "static/js/main.03549b81.js"
+  ]
+}
