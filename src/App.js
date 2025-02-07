@@ -4,6 +4,7 @@ import { AppContext } from "./context/AppContext";
 import "./styles/styles.css";
 
 const App = () => {
+  
   const { countries, setCountries } = useContext(AppContext);
 
   const addCountry = () => {
